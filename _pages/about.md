@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a  undergraduate student from Fuzhou university
+I'm a  undergraduate student 
